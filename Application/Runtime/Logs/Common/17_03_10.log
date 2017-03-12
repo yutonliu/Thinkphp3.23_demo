@@ -1,0 +1,42 @@
+[ 2017-03-10T20:20:27+08:00 ] 127.0.0.1 /_PUBLIC_/jquery-1.11.1/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:_PUBLIC_
+
+[ 2017-03-10T20:20:27+08:00 ] 127.0.0.1 /_PUBLIC_/jquery-1.11.1/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:_PUBLIC_
+
+[ 2017-03-10T22:52:28+08:00 ] 127.0.0.1 /index.php//index.php/Home/Index/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Index.php
+
+[ 2017-03-10T22:52:41+08:00 ] 127.0.0.1 /index.php//index.php/Home/Index/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Index.php
+
+[ 2017-03-10T23:05:22+08:00 ] 127.0.0.1 /tp.com?index.php/home/index/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Tp
+
+[ 2017-03-10T23:27:58+08:00 ] 127.0.0.1 /index.php/index/hello.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Index
+
+[ 2017-03-10T23:28:43+08:00 ] 127.0.0.1 /index.php/index/hello.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Index
+
