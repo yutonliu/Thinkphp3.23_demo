@@ -7,4 +7,4 @@
     表名 think_data 和 think_form
 
 #效果图
-![image](https://github.com/likeyou521/Thinkphp3.23_demo/效果图.png)
+![image](https://github.com/likeyou521/Thinkphp3.23_demo/raw/master/效果图.png)
