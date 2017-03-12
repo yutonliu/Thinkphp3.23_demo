@@ -5,3 +5,6 @@
 #数据库在 /SQL 文件下  
 	数据库名 thinkphp
     表名 think_data 和 think_form
+
+#效果图
+![image](https://github.com/likeyou521/Thinkphp3.23_demo/效果图.png)
